@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Linear Programming as a Lifestyle"
+title:      "Linear Programming for your Lifestyle"
 subtitle:   "A guide to resource-constrained life optimization"
-date:       2015-02-06 12:00:00
+date:       2015-02-08 12:00:00
 author:     "Allison Atwill"
 header-img: "img/ocean_clouds_blue.jpg"
 ---
@@ -114,7 +114,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <h2 class="section-heading">Applying the framework</h2>
 
-<p>As I mentioned, my resource constraints are atypical for this area.  Individuals working at technology jobs in the South Bay are usually awarded higher wages to compensate for significant time lost in multi-hour daily commutes. Engineers are also compensated at higher rates to account for the larger number of productive hours required in programming roles.  In these cases, a personal budget framework would focus more on time optimization, while being less constrained by financial resources.</p>
+<p>As I mentioned, my resource constraints are atypical for this area.  Individuals working at technology jobs in the South Bay are usually awarded higher wages to compensate for significant time lost in multi-hour daily commutes. Engineers are also compensated at higher rates to account for the scarcity of their skills and the larger number of productive hours required in programming roles.  In these cases, a personal budget framework would focus more on time optimization, while being less constrained by financial resources.</p>
 
 
 <p>In it’s practical application, operating within a budget requires constant renegotiation between preferences, available resources, and constraints. Each person has unique available resource levels and varying preferences given to the tradeoffs that they make in their lives. This is a logical model that I have found useful in analyzing my own economic tradeoffs, and optimizing within my own economic reality.</p>
