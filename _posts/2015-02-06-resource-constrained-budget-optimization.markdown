@@ -21,7 +21,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 		<li>Physical resources (bodily and emotional fatigue)</li>
 </ol>
 
-<p>This type of individual choice analysis can also be expressed as a simple optimization problem: </p>
+<p>This type of individual choice analysis can also be expressed as a simple optimization problem, as described by this reward function: </p>
 
 <img src="{{ site.baseurl }}/img/utility-function.jpg" alt="Simple Utility">
 <span class="caption text-muted">Where F = financial resources and W<sub>f</sub> = Weight of financial resources (how much I care about preserving them).  </span>
@@ -54,10 +54,10 @@ header-img: "img/ocean_clouds_blue.jpg"
 <p markdown="1">Saving in the present means that in the future, it is possible to make larger investments in securities, businesses, or property that will generate passive income. This is key to long-term wealth creation, and so in my own budget framework I weight saving more strongly than spending.[^2]</p>
 
 [^2]: <a href="http://www.warrenbuffett.com/warren-buffett-10-ways-to-get-rich/"> Warren Buffett's 10 Ways to Get Rich</a>
-<a>
-    <img src="{{ site.baseurl }}/img/lake-garda.jpg" alt="Lake Garda">
-</a>
-<span class="caption text-muted">Of course, we also save so we can spend more later. I got to go on some great trips this year.  This is Lake Garda, in Northern Italy.</span>
+
+ <img src="{{ site.baseurl }}/img/lake-garda.jpg" alt="Lake Garda">
+
+<span class="caption text-muted">Of course, we also save just so we can spend more later. I got to go on some great trips this year.  This is Lake Garda, in Northern Italy.</span>
 
 
 <h2 class="section-heading">Housing in America's hottest market</h2>
@@ -85,7 +85,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 
 
-<h2 class="section-heading">Housing as a cost function</h2>
+<h2 class="section-heading">The role of housing in the reward function</h2>
 
 <p> Including the variable cost of utilities, I currently spend ~37% of my income on housing, +4% to the ideal budget split.  Given my preference for saving over spending, I make this up by constaining my other expenses.</p>
 

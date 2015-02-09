@@ -5,8 +5,8 @@
     <description>An elegant blog using the Clean Blog template</description>
     <link>http://allisonatwill.github.io/</link>
     <atom:link href="http://allisonatwill.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Feb 2015 15:41:01 -0800</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2015 15:41:01 -0800</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2015 15:58:10 -0800</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2015 15:58:10 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,7 +23,7 @@
 		&lt;li&gt;Physical resources (bodily and emotional fatigue)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;This type of individual choice analysis can also be expressed as a simple optimization problem: &lt;/p&gt;
+&lt;p&gt;This type of individual choice analysis can also be expressed as a simple optimization problem, as described by this reward function: &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/utility-function.jpg&quot; alt=&quot;Simple Utility&quot; /&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;Where F = financial resources and W&lt;sub&gt;f&lt;/sub&gt; = Weight of financial resources (how much I care about preserving them).  &lt;/span&gt;&lt;/p&gt;
@@ -54,10 +54,9 @@
 
 &lt;p&gt;Saving in the present means that in the future, it is possible to make larger investments in securities, businesses, or property that will generate passive income. This is key to long-term wealth creation, and so in my own budget framework I weight saving more strongly than spending.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a&gt;
-    &lt;img src=&quot;/img/lake-garda.jpg&quot; alt=&quot;Lake Garda&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Of course, we also save so we can spend more later. I got to go on some great trips this year.  This is Lake Garda, in Northern Italy.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/lake-garda.jpg&quot; alt=&quot;Lake Garda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;caption text-muted&quot;&gt;Of course, we also save just so we can spend more later. I got to go on some great trips this year.  This is Lake Garda, in Northern Italy.&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Housing in America&#39;s hottest market&lt;/h2&gt;
 
@@ -79,7 +78,7 @@
 
 &lt;p&gt;&lt;span class=&quot;caption text-muted&quot;&gt;The ideal daily commute.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Housing as a cost function&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;The role of housing in the reward function&lt;/h2&gt;
 
 &lt;p&gt; Including the variable cost of utilities, I currently spend ~37% of my income on housing, +4% to the ideal budget split.  Given my preference for saving over spending, I make this up by constaining my other expenses.&lt;/p&gt;
 
