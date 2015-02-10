@@ -28,7 +28,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p>This is a loosely formulized way of looking at the age-old discipline of budgeting.</p>
 
-<p> The application of these principles has allowed me to maximize my utility within my resource constraints. I am not an engineer by trade and I work outside of the technology sector, so my monetary compensation is lower than many of my peers. When I personally solve for this equation, W<sub>f</sub> is weighted higher than W<sub>t</sub> and W<sub>p</sub>.</p>
+<p> The application of these principles has allowed me to maximize my utility within my resource constraints. Not being an engineer by trade and working outside of the technology sector, my monetary compensation is lower than many of my peers. When I personally solve for this equation, W<sub>f</sub> is weighted higher than W<sub>t</sub> and W<sub>p</sub>.</p>
 
 <h2 class="section-heading">Constructing your budget framework</h2>
 
@@ -37,10 +37,6 @@ header-img: "img/ocean_clouds_blue.jpg"
 <p>However, my profitable years have thus far yielded only a linear increase in my spending power. It is therefore necessary to  realistically constrain this aspect of my life. </p>
 
 <p> I structure my budget with a traditional 33% split: after maxing out employer-matched 401k contributions, take-home income should be divided evenly between housing, savings, and spending. </p>
-
-<img src="{{ site.baseurl }}/img/income-equation.jpg" alt="The budget at it's most basic">
-
-<img src="{{ site.baseurl }}/img/rent-saving-spending.jpg" alt="The elegant split">
 
 <img src="{{ site.baseurl }}/img/dragonv2.jpg" alt="Elon's Dream">
 
@@ -73,9 +69,9 @@ header-img: "img/ocean_clouds_blue.jpg"
  	<li>Aesthetic preferences</li> 
  </ol>
 
-<p>To do this, I first had to understand the market.  I evaluated every Criagslist apartment listing in our search radius every single day for 3 months. I also checked Trulia, Zillow, RentSFNow, and canvassed our preferred neighborhoods writing down phone numbers of the "Apartment Available" signs.  As a tip, Craigslist is by far the most useful and comprehensive source for apartment rentals in San Francisco. </p>
+<p>To do this, I first had to understand the market.  I evaluated every Craigslist apartment listing in our search radius every single day for 3 months. I also checked Trulia, Zillow, RentSFNow, and canvassed our preferred neighborhoods writing down phone numbers of the "Apartment Available" signs.  As a tip, Craigslist is by far the most useful and comprehensive source for apartment rentals in San Francisco. </p>
 
-<p>Of the apartments I researched, I visited ~15 units, and applied with my wonderful roommate to 3 of those units before signing our current lease.  By expending my short term time and physical resources, we now have a beautiful apartment that, by my estimation, is significantly below market while being in a maximally ideal location.</P>
+<p>Of the apartments I researched, I visited ~15 units, and applied with my wonderful roommate to 3 of those units before signing our current lease.  By expending my short term time and physical resources, we now have a beautiful apartment that, by my estimation, is priced significantly below market while being in a maximally ideal location.</P>
 
 
 <img src="{{ site.baseurl }}/img/sharonodegaard-filbert.jpg" alt="Filbert Steps">
@@ -87,7 +83,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <h2 class="section-heading">The role of housing in the reward function</h2>
 
-<p> Including the variable cost of utilities, I currently spend ~37% of my income on housing, +4% to the ideal budget split.  Given my preference for saving over spending, I make this up by constaining my other expenses.</p>
+<p> Including the variable cost of utilities, I currently spend ~37% of my income on housing, +4% to the ideal budget split.  Given my preference for saving over spending, I make this up by constraining my other expenses.</p>
 
 <p>This was an acceptable tradeoff to me for several reasons. Most importantly, my apartment’s location allows me to gain in other resources some of what I trade financially. My daily commute to work is a 6 minute walk down the Filbert Steps. My apartment is also in an exceptionally beautiful part of San Francisco, which is emotionally beneficial to me. </p>
 
