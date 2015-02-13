@@ -8,7 +8,7 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="{% if post.title %}{{ post.title }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
 
     <meta property="og:url" content="http://allisonatwill.com{{page.url}}">
 
