@@ -9,6 +9,10 @@ url: "http://allisonatwill.github.io"
 instagram_username: arandolpha
 github_username:  allisonatwill
 facebook_username:  Allison.Atwill
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-59746410-2'
 
 # Build settings
 markdown: kramdown
