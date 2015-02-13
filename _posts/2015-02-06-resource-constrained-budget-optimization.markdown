@@ -58,7 +58,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <h2 class="section-heading">Housing in America's hottest market</h2>
 
-<p markdown="1"> I live in San Francisco, where the median rent for new one and two bedroom apartments in the city is now the highest in the Untied States.[^3]   These rent prices are driven primarily by constrained housing supply, coupled with rapid job creation in the technology sector where median wages are high. Not working directly in the technology sector, I have to adjust my budget framework to account for these trends.</p>
+<p markdown="1"> I live in San Francisco, where the median rent for new one and two bedroom apartments in the city is now the highest in the United States.[^3]   These rent prices are driven primarily by constrained housing supply, coupled with rapid job creation in the technology sector where median wages are high. Not working directly in the technology sector, I have to adjust my budget framework to account for these trends.</p>
 [^3]:<a href="http://blog.zumper.com/wp-content/uploads/2015/02/January-2015-Rent-Report.pdf">January 2015 Rent Report by Zumper</a>
 
 <p>Searching for an apartment was an exercise in short- vs. long-term resource tradeoffs. I invested a significant amount of time and energy hunting down an apartment.  I wanted to maximize apartment quality while constrained in the following areas:</p>
