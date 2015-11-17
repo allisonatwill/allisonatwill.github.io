@@ -36,7 +36,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p> I’ve also taken to “urban lifestyle yoga,” which is doing yoga stretches whenever you feel like it out in the wild.  You may get some strange looks, but little do those people know how great you feel from an efficient movement of lymphatic fluid! </p>
 
-<img src="{{ site.baseurl }}/img/yoga2.jpg" alt="Dusty Yoga">
+<img src="{{ site.baseurl }}/img/yoga.jpg" alt="Dusty Yoga">
 
 <span class="caption text-muted">After some dusty urban yoga in Black Rock City.</span>
 
