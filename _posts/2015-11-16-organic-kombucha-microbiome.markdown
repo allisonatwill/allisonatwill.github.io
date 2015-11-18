@@ -12,7 +12,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p>I am obsessed with life optimization.  Every day we make hundreds of small decisions that have profound effects on our mental and physical state.  I want to get the most out of my time every day, so I run lots of experiments to maximize my energy and mental productivity. </p>
 
-<p>The most important thing you can do to increase your energy levels is to understand that your body works as an energetic system. While plants get their energy from the sun and the dirt, us animals get our energy from the food we put in our mouths.  All of your great ideas first started out as food!</p>
+<p>The most important thing you can do to increase your energy levels is to understand that your body works as an energetic system. While plants get their energy from the sun and the dirt, we animals get our energy from the food we put in our mouths.  All of your great ideas first started out as food!</p>
 
 <p>To maximize the energy available to your brain, you can optimize three basic systems: 1. Facilitate the flow of available nutrition around your body. 2. Increase the quantity of nutrition in your body through food choice. 3. Increase your body’s ability to process nutrition from food. </p>
 
