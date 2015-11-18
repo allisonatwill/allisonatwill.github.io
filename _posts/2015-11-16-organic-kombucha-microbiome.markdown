@@ -1,9 +1,9 @@
 ---
 layout:     post
-comments: true
+comments: false
 title:      "10x the energy at 2x the cost"
 subtitle:   "Organic food, kombucha, and the microbiome"
-date:       2015-11-16 12:00:00
+date:       2015-11-17 12:00:00
 author:     "Allison Atwill"
 header-img: "img/ocean_clouds_blue.jpg"
 ---
@@ -58,7 +58,7 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p>The microbiome is responsible for nutrient processing and energy extraction from the small intestine into the circulatory system.  It is where some of the best neurotransmitters like dopamine and serotonin are created. A damaged microbiome results in depression, lowered immune response, and chronic health conditions like celiac and leaky gut syndrome.  A healthy microbiome means that you can extract maximal energy out of the food you eat! </p>
 
-<h2 class="section heading">Kombucha = life. Literally. </h2>
+<h2 class="section heading">Kombucha = life. Really. </h2>
 
 <p>The bacteria in our microbiome are damaged by most pesticides.  Pesticides are designed to kill bacteria!   Glyphosate, the active ingredient in Roundup, is the most widely used herbicide in American farming. It's also patented as an antibiotic. That's not good for our  microbes. </p>
 
