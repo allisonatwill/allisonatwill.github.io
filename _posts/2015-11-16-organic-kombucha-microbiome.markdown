@@ -36,9 +36,9 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p> I’ve also taken to “urban lifestyle yoga,” which is doing yoga stretches whenever you feel like it out in the wild.  You may get some strange looks, but little do those people know how great you feel from an efficient movement of lymphatic fluid! </p>
 
-<img src="{{ site.baseurl }}/img/yoga.jpg" alt="Dusty Yoga">
+<img src="{{ site.baseurl }}/img/yoga-sequence.jpg" alt="Art School wasn't really in the cards for me">
 
-<span class="caption text-muted">After some dusty urban yoga in Black Rock City.</span>
+<span class="caption text-muted">I bet your lymphatic system would feel pretty good if you did this sequence right now!</span>
 
 <h2 class="section heading">Micronutrition: Lego blocks of immune response </h2>
 
@@ -48,9 +48,9 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 <p>As anyone else who has tried to hack their body by eating only protein bars and multivitamins will know, taking a supplement is not the same as eating food.  The nutrition in supplement-based food like Soylent is not only less bioavailable, it’s also missing a crucial element.  We don’t just need the building blocks of micronutrition, we also need the processing agents--bacteria. </p>
 
-<img src="{{ site.baseurl }}/img/farmers-market.jpg" alt="Produce">
+<img src="{{ site.baseurl }}/img/farmers-market.jpg" alt="Nom">
 
-<span class="caption text-muted">The bounty.</span>
+<span class="caption text-muted">Nom</span>
 
 <h2 class="section heading">The microbiome: We are not alone </h2>
 
@@ -80,6 +80,10 @@ header-img: "img/ocean_clouds_blue.jpg"
 
 </ul>
 
+<img src="{{ site.baseurl }}/img/kombucha-bow.jpg" alt="Pairing photographed for artistic effect">
+
+<span class="caption text-muted">Kombucha AND yoga. Two of my favorite things!</span>
+
 <h2 class="section heading">Thanks! </h2>
 
 <p>And there you have it!  This has been a fascinating topic for me to research, because it helped me become more dispassionate towards the role of food and exercise in my life.  I started viewing my body as a system to be optimized, and began paying attention to the feedback loop of food inputs and productivity outputs.  </p>
@@ -103,8 +107,6 @@ header-img: "img/ocean_clouds_blue.jpg"
 <p><a href="http://www.ncbi.nlm.nih.gov/pubmed/22200534"> A glyphosate-based herbicide induces necrosis and apoptosis in mature rat testicular cells in vitro, and testosterone decrease at lower levels.  </a> Clair E, Mesnage R, Travert C, Séralini GÉ. Toxicol In Vitro. 2012</p>
 
 <p> <a href="http://www.who.int/ipcs/features/hazardous_pesticides.pdf">Exposure to highly hazardous pesticides: a major public health concern.</a> World Health Organization. 2010. </p>
-
-
 
 
 

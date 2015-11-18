@@ -17,6 +17,7 @@ analytics :
 # Build settings
 markdown: kramdown
 parse_block_html: true
+comments: true
 highlighter: pygments
 permalink: pretty
 paginate: 5
