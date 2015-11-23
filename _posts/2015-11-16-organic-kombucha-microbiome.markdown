@@ -1,6 +1,5 @@
 ---
 layout:     post
-comments: false
 title:      "10x the energy at 2x the cost"
 subtitle:   "Organic food, kombucha, and the microbiome"
 date:       2015-11-17 12:00:00

@@ -12,7 +12,7 @@ facebook_username:  Allison.Atwill
 analytics :
   provider : google 
   google : 
-      tracking_id : 'UA-59746410-2'
+      tracking_id : 'UA-59746410-1'
 
 # Build settings
 markdown: kramdown
