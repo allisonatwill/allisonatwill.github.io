@@ -18,7 +18,7 @@ analytics :
 markdown: kramdown
 parse_block_html: true
 comments: true
-highlighter: pygments
+highlighter: rogue
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
