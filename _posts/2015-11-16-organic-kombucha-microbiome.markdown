@@ -5,6 +5,7 @@ subtitle:   "Organic food, kombucha, and the microbiome"
 date:       2015-11-17 12:00:00
 author:     "Allison Atwill"
 header-img: "img/ocean_clouds_blue.jpg"
+comments: true
 ---
 
 <h2 class="section heading">The human body, man. How does it work? </h2>
