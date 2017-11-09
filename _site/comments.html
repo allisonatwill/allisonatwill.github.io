@@ -1,13 +1,13 @@
-{% if page.comments %}
+{% if post.comments %}
 <div id="disqus_thread"></div>
 <script>
 
 var disqus_config = function () {
-this.page.url = "http://allisonatwill.github.io"; // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = "allisonatwill.com"; 
+this.page.identifier = "{{ page.url }}"; 
 };
 
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 
 s.src = '//allisonatwill.disqus.com/embed.js';
