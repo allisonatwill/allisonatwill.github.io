@@ -3,10 +3,10 @@
   <channel>
     <title>a r a</title>
     <description>A blog by Allison Atwill</description>
-    <link>http://allisonatwill.github.io/</link>
+    <link>http://allisonatwill.github.io</link>
     <atom:link href="http://allisonatwill.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Nov 2017 16:46:02 -0800</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 16:46:02 -0800</lastBuildDate>
+    <pubDate>Wed, 08 Nov 2017 16:50:07 -0800</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2017 16:50:07 -0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
